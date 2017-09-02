@@ -104,7 +104,7 @@ contract Remittance is Owned{
     }
     
     function changeDeadline(uint _dedlineInBlocks)
-    public
+    onlyOwner
     returns (bool success)
     {
         require(_dedlineInBlocks > 0);
