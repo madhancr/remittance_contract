@@ -1,5 +1,4 @@
-# Remittance Contract
-
+# Remittance Contract 
 You will create a smart contract named Remittance whereby:
 
 There are three people: Alice, Bob & Carol.
@@ -21,3 +20,5 @@ add a kill switch to the whole contract
 plug a security hole (which one?) by changing one password to the recipient's address
 make the contract a utility that can be used by David, Emma and anybody with an address
 make you, the owner of the contract, take a cut of the Ethers smaller than what it would cost Alice to deploy the same contract herself
+
+### This project was done as part of ConsenSys Developer program 2017
