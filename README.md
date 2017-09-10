@@ -1,5 +1,5 @@
 # Remittance Contract 
-You will create a smart contract named Remittance whereby:
+You will create a Ethereum smart contract named Remittance whereby:
 
 There are three people: Alice, Bob & Carol.
 Alice wants to send funds to Bob, but she only has ether & Bob wants to be paid in local currency.
